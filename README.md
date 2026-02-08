@@ -1,12 +1,5 @@
 # Hi there, I'm conlusive! 👋
 
-### My GitHub Stats:
-![conlusive's Stats](https://github-readme-stats.vercel.app/api?username=conlusive&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conlusive&layout=compact&theme=radical)
-
----
-
 ### Skills & Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
