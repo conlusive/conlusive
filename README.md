@@ -7,10 +7,8 @@
 
 ---
 
-### About Me:
-- 🐍 **Python Developer**: Focused on web apps and automation.
-- 🤖 **Current Projects**: Working on Telegram bots and data analysis tools.
-- 💪 **Fitness Goals**: Aiming for muscle gain and a V-shaped physique.
-- 📈 **Interests**: Financial markets and Smart Money trading concepts.
-
-I'd appreciate a ⭐ on my projects!
+### Skills & Tools:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
