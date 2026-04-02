@@ -1,47 +1,23 @@
-<div align="center">
+🗄️ System.identity = "conlusive"
 
-# Hi there, I'm conlusive 👋
+SDET Engineer • Software Developer (Automation Focus)
+Focused on building automated testing systems and algorithmic trading tools with an emphasis on Python and reliability.
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do." alt="Quote" />
+⚡ Technical Skills
 
----
+Languages: Python • SQL • Bash • JavaScript (Basic)
+Testing & Automation: PyTest • Selenium • Playwright • API Testing • Automation Frameworks
+Backend & Bots: FastAPI • Aiogram • Telebot • Async programming • Smart Money Concepts (SMC) Algorithms
+Tools & Technologies: Git • Linux • Docker • Postman • PyCharm • BeautifulSoup • Redis
 
-### 👨‍💻 About Me
+🧠 Areas of Interest
 
-I am a Software Developer focused on automation and algorithmic trading.  
-Currently deep diving into **SDET** (Software Development Engineer in Test) methodologies.
+Software Development Engineer in Test (SDET)
+Algorithmic Trading & Financial Market Analysis
+Automating E-commerce Workflows
+System Architecture & Web Scraping
 
-- 🚀 Developing advanced **Telegram e-commerce** solutions.
-- 📉 Building trading bots based on **Smart Money Concepts (SMC)**.
-- 🐍 Mastering **Python** for automation and backend development.
-- 🏋️‍♂️ Fitness enthusiast and self-improvement seeker.
 
----
+🔌 Contact
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,github,git,pycharm,vscode,linux,docker,postman" />
-</p>
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=conlusive&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conlusive&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
-### 📫 Connect with me
-
-<p align="center">
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
-
-</div>
+Telegram [] • Email [moraclemgmt@gmail.com]
