@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗄️ System.identity = "conlusive"
+# 🗄️ [process.env.USER] == "conlusive"
 
 **SDET Engineer • Software Developer (Automation Focus)**
 
@@ -18,6 +18,12 @@ Focused on building automated testing systems and algorithmic trading tools with
 
 **Tools & Technologies** `Git` • `Linux` • `Docker` • `Postman` • `PyCharm` • `BeautifulSoup` • `Redis`
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+
 ---
 
 ## 🧠 Areas of Interest
@@ -29,19 +35,8 @@ Focused on building automated testing systems and algorithmic trading tools with
 
 ---
 
-## 👁️ Selected Projects
-
-<a href="ПОСИЛАННЯ_НА_ТВІЙ_ECOM_БОТ">
-  <img src="https://img.shields.io/badge/E--commerce%20Bot-conlusive?style=for-the-badge&logo=telegram&logoColor=white&color=black&labelColor=333" alt="E-commerce Bot" />
-</a>
-<a href="ПОСИЛАННЯ_НА_ТВІЙ_SMC_БОТ">
-  <img src="https://img.shields.io/badge/SMC%20Trading%20Bot-conlusive?style=for-the-badge&logo=python&logoColor=white&color=black&labelColor=333" alt="SMC Bot" />
-</a>
-
----
-
 ## 🔌 Contact
 
-Telegram `[@ТвійНік]` Email `[твій-мейл@example.com]`
+Telegram `[]` Email `[moraclemgmt@gmail.com]`
 
 </div>
