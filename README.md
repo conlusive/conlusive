@@ -29,7 +29,7 @@ Focused on building automated testing systems and algorithmic trading tools with
 
 * Software Development Engineer in Test (SDET)
 * Algorithmic Trading & Financial Market Analysis
-* Automating E-commerce Workflows
+* Automation 
 * System Architecture & Web Scraping
 
 ---
