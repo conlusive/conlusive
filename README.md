@@ -1,41 +1,29 @@
 <div align="center">
 
-# 🗄️ [process.env.USER] == "conlusive"
+🗄️ [process.env.USER] == "conlusive"
+Data Engineer • Python Developer
 
-**SDET Engineer • Software Developer (Automation Focus)**
+Focused on building scalable ETL pipelines, data processing systems, and automation tools with an emphasis on Python and data integrity.
 
-Focused on building automated testing systems and algorithmic trading tools with an emphasis on Python and reliability.
+⚡ Technical Skills
+Languages Python • SQL • Bash
 
----
+Data Engineering ETL/ELT • Pandas • PySpark • Airflow • Data Modeling
 
-## ⚡ Technical Skills
+Databases & Storage PostgreSQL • MySQL • Redis • MongoDB • ClickHouse
 
-**Languages** `Python` • `SQL` • `Bash` 
+Tools & Infrastructure Docker • Git • Linux • BeautifulSoup • API Integration • FastAPI
 
-**Testing & Automation** `PyTest` • `Selenium` • `Playwright` • `API Testing` • `Automation Frameworks`
+🧠 Areas of Interest
+Data Pipeline Automation & Orchestration (Airflow)
 
-**Backend & Bots** `FastAPI` • `Aiogram` • `Telebot` • `Async programming` 
+Big Data Processing & Analysis
 
-**Tools & Technologies** `Git` • `Linux` • `Docker` • `Postman` • `PyCharm` • `BeautifulSoup` • `Redis`
+Web Scraping & Data Collection at Scale
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+System Architecture & Database Optimization
 
----
-
-## 🧠 Areas of Interest
-
-* Software Development Engineer in Test (SDET)
-* Algorithmic Trading & Financial Market Analysis
-* Automation 
-* System Architecture & Web Scraping
-
----
-
-## 🔌 Contact
-
-Telegram `[]` Email `[moraclemgmt@gmail.com]`
+🔌 Contact
+Telegram [] Email [moraclemgmt@gmail.com]
 
 </div>
