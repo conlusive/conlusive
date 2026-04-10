@@ -2,7 +2,7 @@
 
 # 💾 [process.env.USER] = "conlusive"
 
-**Data Engineer • Backend Developer (Automation Focus)**
+**Data Engineer • Automation Focus**
 
 Focused on building and optimizing scalable data pipelines, automated ETL systems, and data-driven applications with an emphasis on Python, data quality, and reliability.
 
