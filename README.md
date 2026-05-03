@@ -10,11 +10,11 @@ Focused on building and optimizing scalable data pipelines, automated ETL system
 
 ## ⚡ Technical Skills
 
-**Languages** `Python` • `SQL` • `Bash` • `Go`
+**Languages** `Python` • `SQL` • 
 
 **Backend & Data Development** `ETL Pipelines` • `API Integration` • `Async Programming` • `Redis`
 
-**DevOps & Infrastructure** `Docker` • `CI/CD (Data Pipelines)` • `Linux` • `Git`
+**DevOps & Infrastructure** `Docker` • `CI/CD` • `Linux` • `Git`
 
 **Data Storage & Databases** `PostgreSQL` • `MySQL` • `MongoDB`
 
