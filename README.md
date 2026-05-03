@@ -54,7 +54,7 @@ Focused on building and optimizing scalable data pipelines, automated ETL system
 
 ### [Data-Pipeline-Optimizer]
 A high-throughput ETL engine using Go and Python for processing financial datasets.
-`● Python` `● Go`
+`● Python` 
 
 ### [Public-APIs-Mirror]
 A localized cache and performance optimization of the public-apis.org project.
