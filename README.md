@@ -39,7 +39,7 @@ Focused on building and optimizing scalable data pipelines, automated ETL system
 
 ## 🔌 Contact
 
-**Telegram [@your_handle]** **Email [ `moraclemgmt@gmail.com` ]**
+**Telegram []** **Email [ `moraclemgmt@gmail.com` ]**
 
 ---
 
