@@ -2,7 +2,7 @@
 
 # 💾 [process.env.USER] = "conlusive"
 
-**Data Engineer • Automation Focus**
+**Data Engineer • Data Analysts • Automation Focus**
 
 Focused on building and optimizing scalable data pipelines, automated ETL systems, and data-driven applications with an emphasis on Python, data quality, and reliability.
 
@@ -10,7 +10,7 @@ Focused on building and optimizing scalable data pipelines, automated ETL system
 
 ## ⚡ Technical Skills
 
-**Languages** `Python` • `SQL` • 
+**Languages** `Python` • `SQL`  
 
 **Backend & Data Development** `ETL Pipelines` • `API Integration` • `Async Programming` • `Redis`
 
@@ -37,7 +37,7 @@ Focused on building and optimizing scalable data pipelines, automated ETL system
 
 ## 🔌 Contact
 
-**PGP [ ]** **Telegram [ ]** **Email [ `moraclemgmt@gmail.com` ]**
+**Telegram []** **Email [ `moraclemgmt@gmail.com` ]**
 
 ---
 
