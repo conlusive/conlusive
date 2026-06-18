@@ -27,13 +27,13 @@ Focused on building and optimizing scalable data pipelines, automated ETL system
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
+##
 
 | | |
 |:---:|:---:|
 | ```text <br> .---. <br> / __\ <br> / .---/ <br> < / / __ <br> \____/ <br> /__/ <br> '--' <br> ``` | ```text <br> _ <br> / \ <br> / \ <br> /_____\ <br> ``` |
 
----
+##
 
 ## 🔌 Contact
 
