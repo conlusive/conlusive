@@ -43,16 +43,6 @@ Focused on building and optimizing scalable data pipelines, automated ETL system
 
 ---
 
-## 🧠 Areas of Interest
-
-* Data Pipeline Automation & Orchestration (Airflow)
-* Exploratory Data Analysis (EDA) & Statistical Modeling
-* Data Visualization & Business Intelligence (BI)
-* Web Scraping & Data Extraction at Scale
-* Database Optimization & Performance Tuning
-
----
-
 ## 👁️ Selected Projects
 
 ### [Data-Pipeline-Optimizer]
