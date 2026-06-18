@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💾 [process.env.USER] = "conlusive"
+# 💾 conlusive
 
 **Data Engineer • Data Analyst • Automation Focus**
 
