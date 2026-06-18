@@ -10,6 +10,7 @@ Focused on building and optimizing scalable data pipelines, automated ETL system
 
 ## ⚡ Technical Skills
 
+
 **Languages** `Python` • `SQL`  
 
 **Analytics & Visualization** `Tableau` • `Power BI` • `Matplotlib` • `Seaborn` • `Data Storytelling`
