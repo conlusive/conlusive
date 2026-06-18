@@ -41,24 +41,4 @@ Focused on building and optimizing scalable data pipelines, automated ETL system
 
 **Telegram []** **Email [ `moraclemgmt@gmail.com` ]**
 
----
-
-## 👁️ Selected Projects
-
-### [Data-Pipeline-Optimizer]
-A high-throughput ETL engine using Go and Python for processing financial datasets.
-`● Python` 
-
-### [Market-Insights-Dashboard]
-Interactive BI dashboard for analyzing market trends and liquidity regimes.
-`● Tableau` `● SQL`
-
-### [Automated-Data-Governance-Tool]
-A Python-based tool for data cataloging and compliance checking.
-`● Python`
-
-### [Realtime-Analytics-Dashboard]
-A dashboard using PostgreSQL and Redis for real-time market data analysis.
-`● PostgreSQL` `● Redis`
-
 </div>
