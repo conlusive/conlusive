@@ -6,7 +6,7 @@
 
 Focused on building and optimizing scalable data pipelines, automated ETL systems, and transforming raw data into actionable insights with an emphasis on Python, data quality, and reliability.
 
----
+##
 
 ## ⚡ Technical Skills
 
