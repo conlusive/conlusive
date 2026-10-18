@@ -2,9 +2,9 @@
 
 # 💾 [conlusive]
 
-**Fullstack Developer • Web & Systems Focus**
+**Fullstack & Data Engineer • Web & Big Data Focus**
 
-Focused on building scalable web applications, robust RESTful APIs, modern dynamic frontends, and reliable backend architectures with an emphasis on Python, JavaScript/TypeScript, and high-performance services.
+Focused on building scalable web applications, robust data pipelines, and distributed Big Data architectures — bridging fullstack web development with high-performance backend systems, ETL workflows, and real-time data processing.
 #
 
 # ⚡ Technical Skills
@@ -12,20 +12,21 @@ Focused on building scalable web applications, robust RESTful APIs, modern dynam
 
 **Languages** `Python` • `JavaScript` • `TypeScript` • `SQL` • `HTML/CSS`
 
-**Frontend Development** `React` • `Next.js` • `Tailwind CSS` • `HTML5/CSS3` • `State Management`
+**Fullstack Development** `React` • `Next.js` • `Node.js` • `FastAPI` • `REST API` • `WebSockets`
 
-**Backend & Systems** `FastAPI` • `Django` • `REST API` • `Async Programming` • `Redis` • `Celery`
+**Data Engineering & Big Data** `PySpark` • `Databricks` • `Apache Kafka` • `Airflow` • `ETL/ELT Pipelines`
 
 **DevOps & Infrastructure** `Docker` • `CI/CD` • `Linux` • `Git` • `Nginx`
 
 **Databases & Storage** `PostgreSQL` • `MySQL` • `MongoDB` • `Redis`
 
-**Tools & Testing** `Pytest` • `Postman` • `WebSockets` • `Git/GitHub` • `Swagger/OpenAPI`
+**Tools & Testing** `Pandas` • `Pytest` • `Postman` • `Docker Compose` • `Git/GitHub`
 
 #
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 #
