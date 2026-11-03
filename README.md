@@ -1,67 +1,47 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="conlusive" width="820" />
+# 💾 [conlusive]
 
-<br>
+**Fullstack & Data Engineer • Web & Big Data Focus**
 
 Focused on building scalable web applications, robust data pipelines, and distributed Big Data architectures — bridging fullstack web development with high-performance backend systems, ETL workflows, and real-time data processing.
+#
 
-<br>
+# ⚡ Technical Skills
 
-## ⚡ TECH STACK
 
-![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-6d28d9?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-7c3aed?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-6d28d9?style=flat-square&logo=postgresql&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-7c3aed?style=flat-square&logo=html5&logoColor=white)
+**Languages** `Python` • `JavaScript` • `TypeScript` • `SQL` • `HTML/CSS`
 
-![React](https://img.shields.io/badge/React-8b5cf6?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-7c3aed?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-8b5cf6?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=flat-square&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-8b5cf6?style=flat-square&logo=socketdotio&logoColor=white)
+**Fullstack Development** `React` • `Next.js` • `Node.js` • `FastAPI` • `REST API` • `WebSockets`
 
-![PySpark](https://img.shields.io/badge/PySpark-a855f7?style=flat-square&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-9333ea?style=flat-square&logo=databricks&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-a855f7?style=flat-square&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-9333ea?style=flat-square&logo=apacheairflow&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-a855f7?style=flat-square&logo=databricks&logoColor=white)
+**Data Engineering & Big Data** `PySpark` • `Databricks` • `Apache Kafka` • `Airflow` • `ETL/ELT Pipelines`
 
-![Docker](https://img.shields.io/badge/Docker-7c3aed?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-6d28d9?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-7c3aed?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6d28d9?style=flat-square&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-7c3aed?style=flat-square&logo=nginx&logoColor=white)
+**DevOps & Infrastructure** `Docker` • `CI/CD` • `Linux` • `Git` • `Nginx`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8b5cf6?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-7c3aed?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-8b5cf6?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-7c3aed?style=flat-square&logo=redis&logoColor=white)
+**Databases & Storage** `PostgreSQL` • `MySQL` • `MongoDB` • `Redis`
 
-![Pandas](https://img.shields.io/badge/Pandas-a855f7?style=flat-square&logo=pandas&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-9333ea?style=flat-square&logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-a855f7?style=flat-square&logo=postman&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-9333ea?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-a855f7?style=flat-square&logo=github&logoColor=white)
+**Tools & Testing** `Pandas` • `Pytest` • `Postman` • `Docker Compose` • `Git/GitHub`
 
-<br>
+#
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+#
 
-## 📊 GITHUB STATS
+# 📊 Stats
 
-<img src="assets/stats.svg" alt="GitHub stats" width="400" />
-<img src="assets/langs.svg" alt="Top languages" width="400" />
+<img src="https://streak-stats.demolab.com?user=conlusive&background=0D0221&border=7C3AED&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&currStreakLabel=C084FC&sideNums=E9D5FF&sideLabels=A78BFA&dates=8B5CF6&stroke=4C1D95&border_radius=0" alt="GitHub streak" />
 
-<img src="assets/streak.svg" alt="Contribution streak" width="820" />
+![Profile views](https://komarev.com/ghpvc/?username=conlusive&label=Profile%20views&color=7c3aed&style=flat-square)
+![Followers](https://img.shields.io/github/followers/conlusive?label=Followers&style=flat-square&color=7c3aed&labelColor=0d0221)
 
-<br>
+#
 
-<img src="assets/snake.svg" alt="Contribution snake" width="820" />
+## 🔌 Contact
 
-<br>
-
-## 🔌 CONTACT
-
-**Telegram []** • **Email** [ `moraclemgmt@gmail.com` ]
+**Telegram []** **Email [ `moraclemgmt@gmail.com` ]**
 
 </div>
