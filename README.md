@@ -31,12 +31,9 @@ Focused on building scalable web applications, robust data pipelines, and distri
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 #
 
-# 📊 Stats
-
-<img src="https://streak-stats.demolab.com?user=conlusive&background=0D0221&border=7C3AED&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&currStreakLabel=C084FC&sideNums=E9D5FF&sideLabels=A78BFA&dates=8B5CF6&stroke=4C1D95&border_radius=0" alt="GitHub streak" />
-
-![Profile views](https://komarev.com/ghpvc/?username=conlusive&label=Profile%20views&color=7c3aed&style=flat-square)
-![Followers](https://img.shields.io/github/followers/conlusive?label=Followers&style=flat-square&color=7c3aed&labelColor=0d0221)
+| | |
+|:---:|:---:|
+| ```text <br> .---. <br> / __\ <br> / .---/ <br> < / / __ <br> \____/ <br> /__/ <br> '--' <br> ``` | ```text <br> _ <br> / \ <br> / \ <br> /_____\ <br> ``` |
 
 #
 
