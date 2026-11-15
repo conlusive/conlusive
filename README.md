@@ -12,7 +12,7 @@ Focused on building scalable web applications, robust data pipelines, and distri
 
 **Languages** `Python` • `JavaScript` • `TypeScript` • `SQL` • `HTML/CSS`
 
-**Fullstack Development** `React` • `Next.js` • `Node.js` • `FastAPI` • `REST API` • `WebSockets`
+**Fullstack Development** `React` • `Next.js` • `Node.js` • `FastAPI` • `REST API` 
 
 **Data Engineering & Big Data** `PySpark` • `Databricks` • `Apache Kafka` • `Airflow` • `ETL/ELT Pipelines`
 
