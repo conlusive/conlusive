@@ -2,33 +2,32 @@
 
 # 💾 [conlusive]
 
-**Fullstack & Data Engineer • Web & Big Data Focus**
+**DevOps Engineer • Cloud Infrastructure & Automation Focus**
 
-Focused on building scalable web applications, robust data pipelines, and distributed Big Data architectures — bridging fullstack web development with high-performance backend systems, ETL workflows, and real-time data processing.
+Focused on building resilient cloud infrastructure, automated CI/CD pipelines, and containerized environments — bridging Linux system administration with scalable orchestration, Infrastructure as Code (IaC), and reliable backend operations.
 #
 
 # ⚡ Technical Skills
 
+**Containers & Orchestration** `Docker` • `Docker Compose` • `Kubernetes (K8s)` • `Helm`
 
-**Languages** `Python` • `JavaScript` • `TypeScript` • `SQL` • `HTML/CSS`
+**Cloud & Infrastructure as Code** `AWS (EC2, S3, IAM, VPC)` • `Terraform` • `Ansible`
 
-**Fullstack Development** `React` • `Next.js` • `Node.js` • `FastAPI` • `REST API` 
+**CI/CD & Automation** `GitHub Actions` • `GitLab CI` • `Jenkins` • `Bash` • `Python`
 
-**Data Engineering & Big Data** `PySpark` • `Databricks` • `Apache Kafka` • `Airflow` • `ETL/ELT Pipelines`
+**OS, Networking & Web Servers** `Linux (Ubuntu/Debian)` • `Nginx` • `HTTP/HTTPS` • `DNS` • `SSH` • `Systemd`
 
-**DevOps & Infrastructure** `Docker` • `CI/CD` • `Linux` • `Git` • `Nginx`
+**Monitoring & Observability** `Prometheus` • `Grafana` • `ELK Stack` • `CloudWatch`
 
-**Databases & Storage** `PostgreSQL` • `MySQL` • `MongoDB` • `Redis`
-
-**Tools & Testing** `Pandas` • `Pytest` • `Postman` • `Docker Compose` • `Git/GitHub`
+**Databases & Version Control** `PostgreSQL` • `Redis` • `MySQL` • `Git` • `GitHub`
 
 #
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 #
 
 | | |
