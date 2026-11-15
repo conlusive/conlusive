@@ -9,11 +9,11 @@ Focused on building resilient cloud infrastructure, automated CI/CD pipelines, a
 
 # ⚡ Technical Skills
 
-**Containers & Orchestration** `Docker` • `Docker Compose` • `Kubernetes (K8s)` • `Helm`
+**Containers & Orchestration** `Docker` • `Docker Compose` • `Kubernetes (K8s)` 
 
-**Cloud & Infrastructure as Code** `AWS (EC2, S3, IAM, VPC)` • `Terraform` • `Ansible`
+**Cloud & Infrastructure as Code** `AWS` • `Terraform` • `Ansible`
 
-**CI/CD & Automation** `GitHub Actions` • `GitLab CI` • `Jenkins` • `Bash` • `Python`
+**CI/CD & Automation** `GitHub Actions` • `Jenkins` • `Bash` • `Python`
 
 **OS, Networking & Web Servers** `Linux (Ubuntu/Debian)` • `Nginx` • `HTTP/HTTPS` • `DNS` • `SSH` • `Systemd`
 
