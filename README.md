@@ -30,14 +30,7 @@ Focused on building resilient cloud infrastructure, automated CI/CD pipelines, a
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 #
 
-```yaml
-name: conlusive            
-role: DevOps Engineer      
-focus:                     
-  - Cloud Infrastructure   
-  - CI/CD Pipelines        
-  - Containers & Automation
-```
+![Animated CI/CD pipeline: code, build, test, deploy, monitor](assets/pipeline.svg)
 
 #
 

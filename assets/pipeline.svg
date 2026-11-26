@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="250" viewBox="0 0 860 250" role="img" aria-label="CI/CD pipeline: code, build, test, deploy, monitor, feedback">
+  <style>
+    text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .stage{font-size:13px;font-weight:700;letter-spacing:1px;text-anchor:middle}
+    .tool{font-size:11px;fill:#8b949e;text-anchor:middle}
+    .flow{stroke-dasharray:6 7;animation:flow 1s linear infinite}
+    @keyframes flow{to{stroke-dashoffset:-13}}
+    @keyframes on0{0%,0.0%{opacity:1}3.0%,95%{opacity:1}100%{opacity:1}}.on0{animation:on0 8s linear infinite}@keyframes on1{0%,17.9%{opacity:0}21.0%,95%{opacity:1}100%{opacity:0}}.on1{animation:on1 8s linear infinite}@keyframes on2{0%,35.9%{opacity:0}39.0%,95%{opacity:1}100%{opacity:0}}.on2{animation:on2 8s linear infinite}@keyframes on3{0%,53.9%{opacity:0}57.0%,95%{opacity:1}100%{opacity:0}}.on3{animation:on3 8s linear infinite}@keyframes on4{0%,71.9%{opacity:0}75.0%,95%{opacity:1}100%{opacity:0}}.on4{animation:on4 8s linear infinite}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.dot{display:none}}
+  </style>
+  <rect x="1" y="1" width="858" height="248" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="24" cy="23" r="5" fill="#ff5f56"/><circle cx="42" cy="23" r="5" fill="#ffbd2e"/><circle cx="60" cy="23" r="5" fill="#27c93f"/>
+  <text x="82" y="27" font-size="12" fill="#8b949e"><tspan fill="#3fb950">conlusive@devops</tspan>:~$ ./pipeline.sh</text>
+  <path class="flow" d="M110 108H750H830V215H30V108H110" fill="none" stroke="#484f58" stroke-width="2"/>
+  <g class="dot">
+    <circle r="10" fill="#58a6ff" fill-opacity=".25"/><circle r="4.5" fill="#79c0ff"/>
+    <animateMotion dur="8s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.72;1" keyPoints="0;0.3528;1" path="M110 108H750H830V215H30V108H110"/>
+  </g>
+  <g transform="translate(110 108)">
+    <circle r="31" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+    <path d="M-6-8L-14 0L-6 8M6-8L14 0L6 8M3-11L-3 11" fill="none" stroke="#6e7681" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <g class="on0">
+      <circle r="38" fill="none" stroke="#f78166" stroke-opacity=".25" stroke-width="6"/>
+      <circle r="31" fill="#161b22" stroke="#f78166" stroke-width="2.5"/>
+      <path d="M-6-8L-14 0L-6 8M6-8L14 0L6 8M3-11L-3 11" fill="none" stroke="#f78166" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text y="62" class="stage" fill="#f78166">CODE</text>
+    <text y="80" class="tool">Git</text>
+  </g>
+  <g transform="translate(270 108)">
+    <circle r="31" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+    <path d="M0-13L12-6V7L0 14L-12 7V-6ZM-12-6L0 1L12-6M0 1V14" fill="none" stroke="#6e7681" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <g class="on1">
+      <circle r="38" fill="none" stroke="#58a6ff" stroke-opacity=".25" stroke-width="6"/>
+      <circle r="31" fill="#161b22" stroke="#58a6ff" stroke-width="2.5"/>
+      <path d="M0-13L12-6V7L0 14L-12 7V-6ZM-12-6L0 1L12-6M0 1V14" fill="none" stroke="#58a6ff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text y="62" class="stage" fill="#58a6ff">BUILD</text>
+    <text y="80" class="tool">Docker</text>
+  </g>
+  <g transform="translate(430 108)">
+    <circle r="31" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+    <path d="M-12 1L-4 9L13-9" fill="none" stroke="#6e7681" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <g class="on2">
+      <circle r="38" fill="none" stroke="#d2a8ff" stroke-opacity=".25" stroke-width="6"/>
+      <circle r="31" fill="#161b22" stroke="#d2a8ff" stroke-width="2.5"/>
+      <path d="M-12 1L-4 9L13-9" fill="none" stroke="#d2a8ff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text y="62" class="stage" fill="#d2a8ff">TEST</text>
+    <text y="80" class="tool">GitHub Actions</text>
+  </g>
+  <g transform="translate(590 108)">
+    <circle r="31" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+    <path d="M0 8V-12M-8-4L0-12L8-4M-12 13H12" fill="none" stroke="#6e7681" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <g class="on3">
+      <circle r="38" fill="none" stroke="#ffa657" stroke-opacity=".25" stroke-width="6"/>
+      <circle r="31" fill="#161b22" stroke="#ffa657" stroke-width="2.5"/>
+      <path d="M0 8V-12M-8-4L0-12L8-4M-12 13H12" fill="none" stroke="#ffa657" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text y="62" class="stage" fill="#ffa657">DEPLOY</text>
+    <text y="80" class="tool">Terraform · AWS</text>
+  </g>
+  <g transform="translate(750 108)">
+    <circle r="31" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+    <path d="M-15 1H-8L-4-10L3 11L7 1H15" fill="none" stroke="#6e7681" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <g class="on4">
+      <circle r="38" fill="none" stroke="#3fb950" stroke-opacity=".25" stroke-width="6"/>
+      <circle r="31" fill="#161b22" stroke="#3fb950" stroke-width="2.5"/>
+      <path d="M-15 1H-8L-4-10L3 11L7 1H15" fill="none" stroke="#3fb950" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text y="62" class="stage" fill="#3fb950">MONITOR</text>
+    <text y="80" class="tool">Prometheus · Grafana</text>
+  </g>
+  <rect x="370" y="205" width="120" height="20" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="430" y="219" class="tool">↺ feedback</text>
+</svg>
