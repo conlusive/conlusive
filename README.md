@@ -30,14 +30,18 @@ Focused on building resilient cloud infrastructure, automated CI/CD pipelines, a
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 #
 
-| | |
-|:---:|:---:|
-| ```text <br> .---. <br> / __\ <br> / .---/ <br> < / / __ <br> \____/ <br> /__/ <br> '--' <br> ``` | ```text <br> _ <br> / \ <br> / \ <br> /_____\ <br> ``` |
+```text
++--------+    +---------+    +--------+    +----------+    +-----------+
+|  CODE  |--->|  BUILD  |--->|  TEST  |--->|  DEPLOY  |--->|  MONITOR  |
++--------+    +---------+    +--------+    +----------+    +-----+-----+
+    ^                                                            |      
+    +------------------------- feedback -------------------------+      
+```
 
 #
 
 ## 🔌 Contact
 
-**Telegram []** **Email [ `moraclemgmt@gmail.com` ]**
+**Email [ `moraclemgmt@gmail.com` ]**
 
 </div>
